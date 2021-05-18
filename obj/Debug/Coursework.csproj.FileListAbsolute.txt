@@ -1,0 +1,17 @@
+C:\Users\Gianmarco\source\repos\Coursework\bin\Debug\Coursework.exe.config
+C:\Users\Gianmarco\source\repos\Coursework\bin\Debug\Coursework.exe
+C:\Users\Gianmarco\source\repos\Coursework\bin\Debug\Coursework.pdb
+C:\Users\Gianmarco\source\repos\Coursework\obj\Debug\Coursework.csprojAssemblyReference.cache
+C:\Users\Gianmarco\source\repos\Coursework\obj\Debug\MainWindow.g.cs
+C:\Users\Gianmarco\source\repos\Coursework\obj\Debug\App.g.cs
+C:\Users\Gianmarco\source\repos\Coursework\obj\Debug\Coursework_MarkupCompile.cache
+C:\Users\Gianmarco\source\repos\Coursework\obj\Debug\Coursework_MarkupCompile.lref
+C:\Users\Gianmarco\source\repos\Coursework\obj\Debug\MainWindow.baml
+C:\Users\Gianmarco\source\repos\Coursework\obj\Debug\Coursework.g.resources
+C:\Users\Gianmarco\source\repos\Coursework\obj\Debug\Coursework.Properties.Resources.resources
+C:\Users\Gianmarco\source\repos\Coursework\obj\Debug\Coursework.csproj.GenerateResource.cache
+C:\Users\Gianmarco\source\repos\Coursework\obj\Debug\Coursework.csproj.CoreCompileInputs.cache
+C:\Users\Gianmarco\source\repos\Coursework\obj\Debug\Coursework.exe
+C:\Users\Gianmarco\source\repos\Coursework\obj\Debug\Coursework.pdb
+C:\Users\Gianmarco\source\repos\Coursework\obj\Debug\ListWindow.g.cs
+C:\Users\Gianmarco\source\repos\Coursework\obj\Debug\ListWindow.baml

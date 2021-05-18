@@ -1,0 +1,33 @@
+﻿<Window x:Class="Coursework.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Coursework"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Closed="Window_Closed">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="779*"/>
+            <ColumnDefinition Width="13*"/>
+        </Grid.ColumnDefinitions>
+        <Label x:Name="AddUserLbl" Content="Add a User" HorizontalAlignment="Left" Height="27" Margin="22,5,0,0" VerticalAlignment="Top" Width="88"/>
+        <Label x:Name="AddLocLbl" Content="Add a Location" HorizontalAlignment="Left" Height="27" Margin="22,96,0,0" VerticalAlignment="Top" Width="98"/>
+        <TextBox x:Name="AddNameTxt" HorizontalAlignment="Left" Height="20" Margin="22,128,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="112" Text="Insert name..."/>
+        <Label x:Name="AddContactLbl" Content="Add Contact" HorizontalAlignment="Left" Height="27" Margin="22,186,0,0" VerticalAlignment="Top" Width="98"/>
+        <TextBox x:Name="AddUserTxt" HorizontalAlignment="Left" Height="20" Margin="22,218,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="112" Text="Insert user..."/>
+        <TextBox x:Name="AddUserTxt1" HorizontalAlignment="Left" Height="20" Margin="170,218,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="112" Text="Insert user..."/>
+        <Label x:Name="AddContactLbl1" Content="Add Visit" HorizontalAlignment="Left" Height="27" Margin="22,272,0,0" VerticalAlignment="Top" Width="98"/>
+        <TextBox x:Name="AddLocationTxt" HorizontalAlignment="Left" Height="20" Margin="22,314,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="112" Text="Insert Location..."/>
+        <TextBox x:Name="AddVisitUserTxt" HorizontalAlignment="Left" Height="20" Margin="170,314,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="112" Text="Insert user..."/>
+        <Button x:Name="AddUserBtn" Content="Add User" HorizontalAlignment="Left" Height="20" Margin="170,37,0,0" VerticalAlignment="Top" Width="99" Click="AddUserBtn_Click"/>
+        <Button x:Name="AddLocationBtn" Content="Add Location" HorizontalAlignment="Left" Height="20" Margin="170,128,0,0" VerticalAlignment="Top" Width="112" Click="AddLocationBtn_Click"/>
+        <Button x:Name="SearchListBtn" Content="Open Search List" HorizontalAlignment="Left" Height="30" Margin="555,164,0,0" VerticalAlignment="Top" Width="126" Click="SearchListBtn_Click"/>
+        <Button x:Name="AddContactBtn" Content="Add Contact" HorizontalAlignment="Left" Height="20" Margin="325,218,0,0" VerticalAlignment="Top" Width="112" Click="AddContactBtn_Click"/>
+        <Button x:Name="AddVisitBtn" Content="Add Visit" HorizontalAlignment="Left" Height="20" Margin="325,314,0,0" VerticalAlignment="Top" Width="112" Click="AddVisitBtn_Click"/>
+        <TextBox x:Name="ContactDateTxt" HorizontalAlignment="Left" Height="20" Margin="96,247,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="130" Text="dd/MM/yyyy HH:mm"/>
+        <TextBox x:Name="VisitDateTxt" HorizontalAlignment="Left" Height="20" Margin="96,349,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="130" Text="dd/MM/yyyy HH:mm"/>
+        <TextBox x:Name="tel_NoTxt" HorizontalAlignment="Left" Height="20" Margin="22,37,0,0" TextWrapping="Wrap" Text="Insert telephone..." VerticalAlignment="Top" Width="112"/>
+
+    </Grid>
+</Window>
